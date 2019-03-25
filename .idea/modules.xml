@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ly-mini-api/ly-mini-api.iml" filepath="$PROJECT_DIR$/ly-mini-api/ly-mini-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly-videos-common/ly-videos-common.iml" filepath="$PROJECT_DIR$/ly-videos-common/ly-videos-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly-videos-dev.iml" filepath="$PROJECT_DIR$/ly-videos-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly-videos-mapper/ly-videos-mapper.iml" filepath="$PROJECT_DIR$/ly-videos-mapper/ly-videos-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly-videos-pojo/ly-videos-pojo.iml" filepath="$PROJECT_DIR$/ly-videos-pojo/ly-videos-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly-videos-service/ly-videos-service.iml" filepath="$PROJECT_DIR$/ly-videos-service/ly-videos-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ly-videos-dev:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ly-videos-dev</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ly-videos-dev-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ly-videos-dev:war exploded" />
+    </root>
+  </artifact>
+</component>
